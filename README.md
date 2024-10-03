@@ -10,4 +10,4 @@ pip install .
 
 ## Usage
 - **Image Recognition**: Follow the Quickstart guide in the ClipSeg folder.
-- **Video Recognition**: Execute the `clipseg_video` script from the root directory.
+- **Video Recognition**: Execute the `clipseg_video.py` script from the root directory.
